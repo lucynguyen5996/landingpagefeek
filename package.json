@@ -1,0 +1,17 @@
+{
+  "name": "genCRM<>Gcalls",
+  "version": "1.0.0",
+  "description": "genCRM<>Gcalls landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thuy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "nodemailer": "^4.1.0",
+    "serve-favicon": "^2.4.3"
+  }
+}
